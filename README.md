@@ -2,7 +2,7 @@
 - 👀 I’m interested in data science
 - 🌱 I’m currently learning Python and Power BI
 - 💞️ I’m looking to collaborate on Python projects
-- 📫 How to reach me .. aske me
+- 📫 How to reach me .. ask me
 - 😄 Pronouns: She/ her
 - ⚡ Fun fact: I believe I can fly
 
