@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rubaika
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning Python and Power BI
+- 👀 I’m interested in data science and Machine Learning
+- 🌱 I’m currently learning Artificial Intelligence
 - 💞️ I’m looking to collaborate on Python and Machine Learning projects
 - 📫 How to reach me .. ask me
 - 😄 Pronouns: She/ her
