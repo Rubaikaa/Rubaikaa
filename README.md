@@ -1,4 +1,4 @@
-Hi there, I'm Rubaika! 👋
+Hi, I'm Rubaika! 👋
 About Me
 � Interests: Data Science, Machine Learning, and Artificial Intelligence
 
