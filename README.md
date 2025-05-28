@@ -1,30 +1,43 @@
-Hi, I'm Rubaika! 👋
+# 👋 Hi, I'm Rubaika!
 
-About Me
+Welcome to my GitHub profile! I'm a passionate **Data Science** and **AI enthusiast** with a growing interest in solving real-world problems using **Machine Learning** and **Deep Learning**.
 
-� Interests: Data Science, Machine Learning, and Artificial Intelligence
+---
 
-🌱 Currently Learning: Advanced AI Concepts (Deep Learning, NLP, Computer Vision)
+## 💡 About Me
 
-💻 Tech Stack: Python, TensorFlow/PyTorch, Scikit-learn, Pandas, NumPy
+- 🔍 **Interests:** Data Science, Machine Learning, Artificial Intelligence  
+- 🌱 **Currently Learning:** Deep Learning, Natural Language Processing (NLP), and Computer Vision  
+- 💻 **Tech Stack:** Python, TensorFlow / PyTorch, Scikit-learn, Pandas, NumPy  
+- 📈 **Strengths:** Analytical thinking, problem-solving, clean and reproducible code  
 
-🤝 Looking to Collaborate: Open-source Python/ML projects, AI research
+---
 
-✨ Fun Fact: I believe I can fly! (And with AI, maybe I’ll build a jetpack someday 🚀)
+## 🤝 Open to Collaborate On
 
-📫 How to Reach Me
-LinkedIn: www.linkedin.com/in/rubaika-693911364
-Email: rubaika.ak@gmail.com
+- 🤖 ML and AI research projects  
+- 🐍 Python scripting and automation  
+- 📊 Data analysis and visualization tasks  
+- 🧠 Open-source contributions (especially in Python/ML)
 
-💡 Collaboration & Contributions
-I’m open to:
+Let’s build something innovative and impactful together!
 
-🤖 Machine Learning projects
+---
 
-🐍 Python scripting/automation
+## ✨ Fun Fact
 
-📊 Data Analysis/Visualization tasks
+I believe I can fly!  
+*(And with AI, maybe I’ll build a jetpack someday 🚀)*
 
-Let’s build something amazing together!
+---
 
-⭐ Thanks for visiting! Hope you find something interesting here.
+## 📫 Get in Touch
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/rubaika-693911364)  
+- 📧 Email: rubaika.ak@gmail.com
+
+---
+
+⭐ *Thanks for stopping by! Feel free to explore my repos and connect.*
+
+
